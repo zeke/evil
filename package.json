@@ -1,0 +1,25 @@
+{
+  "name": "evil",
+  "version": "1.0.0",
+  "description": "A test package, frought with <script>alert('xss';)</script> misconduct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo evil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/evil.git"
+  },
+  "keywords": [
+    "evil",
+    "test",
+    "fixture",
+    "xss"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/evil/issues"
+  },
+  "homepage": "https://github.com/zeke/evil"
+}
