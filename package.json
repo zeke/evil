@@ -1,7 +1,7 @@
 {
   "name": "evil",
   "version": "1.0.0",
-  "description": "A test package, frought with <script>alert('xss';)</script> misconduct",
+  "description": "A test package, frought with <script>alert(1);</script> misconduct",
   "main": "index.js",
   "scripts": {
     "test": "echo evil"
